@@ -4,7 +4,7 @@ This is a **Weather App** built using **React**. You can search for any city to 
 
 ## Live Demo
 
-Check out the live demo of the Weather App here: [Live Demo](https://your-vercel-app-url.vercel.app)
+Check out the live demo of the Weather App here: [Live Demo](https://weather-app-iota-lac-36.vercel.app/)
 
 ## Features
 
